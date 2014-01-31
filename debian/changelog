@@ -1,0 +1,5 @@
+golang-bson (0.0~bzr20140125+263-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- Kouhei Maeda <mkouhei@palmtb.net>  Mon, 27 Jan 2014 15:13:46 +0900
