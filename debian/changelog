@@ -1,4 +1,4 @@
-golang-bson (0.0~bzr20140125+263-1) unstable; urgency=low
+golang-mgo-bson (0.0~bzr20140125+263-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)
 

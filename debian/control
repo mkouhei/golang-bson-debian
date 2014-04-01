@@ -1,4 +1,4 @@
-Source: golang-bson
+Source: golang-mgo-bson
 Section: devel
 Priority: extra
 Maintainer: Kouhei Maeda <mkouhei@palmtb.net>
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9.0.0), dh-golang, golang-go, golang-gocheck-dev
 Standards-Version: 3.9.5
 Homepage: http://godoc.org/labix.org/v2/mgo/bson
 
-Package: golang-bson-dev
+Package: golang-mgo-bson-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, golang-go
 Description: implementation of the BSON specification for Go
